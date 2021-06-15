@@ -1,7 +1,5 @@
 # Time_Series_Analysis_Basics
 
-_Working with time series data using pandas library_.
-
 We will be focusing on following topics:
 1) Usage of **datetime** module
 2) How to convert dates in strings into datetime object and vice versa
