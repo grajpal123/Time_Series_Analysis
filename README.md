@@ -1,5 +1,6 @@
 # Time_Series_Analysis_Basics
-Working with time series data using pandas library.
+
+_Working with time series data using pandas library_.
 
 We will be focusing on following topics:
 1) Usage of **datetime** module
