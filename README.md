@@ -8,3 +8,10 @@ We will be focusing on following topics:
 5) Learn about why we need resmapling and perform different techniques in resampling i.e. **Upsampling** and **Downsampling**
 6) Dig dive into **timezones** and convert from one from to another. 
 7) Usage of **timedelta** to perfome basic arthimatic operation.
+
+# Time Series Vaildation 
+
+We have discussed about following techniques:
+1) Hold Out Validation
+2) Time Series Cross Validation
+3) Walk Forward Cross Validation
