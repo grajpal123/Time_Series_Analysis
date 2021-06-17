@@ -1,4 +1,6 @@
-# Time_Series_Analysis_Basics
+## Time Series 
+
+_Time Series Analysis_
 
 We will be focusing on following topics:
 1) Usage of **datetime** module
@@ -9,7 +11,7 @@ We will be focusing on following topics:
 6) Dig dive into **timezones** and convert from one from to another. 
 7) Usage of **timedelta** to perfome basic arthimatic operation.
 
-# Time Series Vaildation 
+_Time Series Vaildation_ 
 
 We have discussed about following techniques:
 1) Hold Out Validation
